@@ -1,0 +1,10 @@
+Charger
+Game-Controller
+Headphone
+Keyboard
+Monitor
+Monitor
+Mouse
+Smartphone
+Smartwatch
+Speaker
